@@ -1,0 +1,38 @@
+_repo: Key-to-the-Science-of-Theology_35470
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pratt, Parley P. (Parley Parker)
+    aliases:
+    - Pratt, Parley Parker
+    - Pratt, P. P. (Parley Parker)
+    birthdate: 1807
+    deathdate: 1857
+    gutenberg_agent_id: '37697'
+    url: http://www.gutenberg.org/2009/agents/37697
+    wikipedia: http://en.wikipedia.org/wiki/Parley_P._Pratt
+description: 'An LDS classic about the Restoration and the gifts of the Spirit, Parley
+  P. Pratt''s "Spirituality: the Key to the Science of Theology" teaches essential
+  doctrines about eternal life, personal revelation, the reality of God, and the steps
+  each of us must take to return to His presence.'
+gutenberg_bookshelf:
+- Latter Day Saints
+- Christianity
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35470'
+  lccn: '24001480'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcsh 'Mormon Church'
+- !lcc 'BX'
+title: Key to the Science of Theology
+url: http://www.gutenberg.org/ebooks/35470
